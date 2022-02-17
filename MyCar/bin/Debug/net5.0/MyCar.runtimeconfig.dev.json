@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\josia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\josia\\.nuget\\packages",
+      "E:\\VisualStudio2019pt3\\NuGetPackages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
